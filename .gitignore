@@ -1,3 +1,5 @@
 .svn
 build
 doc
+lib/*.jar
+dest
